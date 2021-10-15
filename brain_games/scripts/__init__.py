@@ -1,1 +1,0 @@
-"""Scripts of Brain-games."""
